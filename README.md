@@ -1,4 +1,4 @@
-# C-Homework-1
+# Explanation C-Homework-1
 For the first task i implemented a hamming algorithm, which takes 4 bits of data, adds 3 parity bits and wraps them in 7 bits. This algorithm helps us to encode and
 decode data safely.It is a simple technique to implement error correcting codes, which is used to safely store data and automatically correct mistakes.
 
