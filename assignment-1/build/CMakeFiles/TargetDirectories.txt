@@ -1,0 +1,5 @@
+/home/chku/Desktop/assignment-1/build/CMakeFiles/hamming74.dir
+/home/chku/Desktop/assignment-1/build/CMakeFiles/utf8.dir
+/home/chku/Desktop/assignment-1/build/CMakeFiles/tokenize.dir
+/home/chku/Desktop/assignment-1/build/CMakeFiles/edit_cache.dir
+/home/chku/Desktop/assignment-1/build/CMakeFiles/rebuild_cache.dir

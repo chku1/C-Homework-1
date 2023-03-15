@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/hamming74.dir/hamming74.c.o -o hamming74 

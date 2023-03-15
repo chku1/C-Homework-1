@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/tokenize.dir/tokenize.c.o CMakeFiles/tokenize.dir/scan_token.c.o -o tokenize 

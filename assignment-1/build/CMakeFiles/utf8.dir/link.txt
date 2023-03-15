@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/utf8.dir/utf8.c.o -o utf8 
